@@ -14,8 +14,8 @@ You can see the result in *main.html*
 
 This network is assemled in GNS3:
 
-![](sample\gns3-cdp-topology-config\cdp-topology-test-stend.PNG)
+![](\sample\gns3-cdp-topology-config\cdp-topology-test-stend.PNG)
 
 This what you can see
 
-![](sample\gns3-cdp-topology-config\result-building-cdp-topology.PNG)
+![](\sample\gns3-cdp-topology-config\result-building-cdp-topology.PNG)
