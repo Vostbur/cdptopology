@@ -1,0 +1,16 @@
+gth 0
+R4#sh cdp nei
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+R2               Fas 0/0            167         R S I     3725      Fas 0/0
+R2               Fas 0/1            167         R S I     3725      Fas 1/0
+R3               Fas 0/0            166         R S I     3725      Fas 0/0
+R1               Fas 0/0            167         R S I     3725      Fas 0/0
+R6               Fas 0/0            163         R S I     3725      Fas 0/0
+R6               Fas 1/0            164         R S I     3725      Fas 0/1
+R5               Fas 0/0            168         R S I     3725      Fas 0/0
+R5               Fas 2/0            168         R S I     3725      Fas 0/1
+R4#
+R4#

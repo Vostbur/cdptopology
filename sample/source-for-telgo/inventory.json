@@ -1,0 +1,56 @@
+[
+    {
+        "hostname":"R1",
+        "addr":"192.168.129.10",
+        "auth": {
+            "login": "cisco",
+            "password": "cisco",
+            "enable": "cisco"
+        }
+    },
+    {
+        "hostname":"R2",
+        "addr":"192.168.129.20",
+        "auth": {
+            "login": "cisco",
+            "password": "cisco",
+            "enable": "cisco"
+        }
+    },
+    {
+        "hostname":"R3",
+        "addr":"192.168.129.30",
+        "auth": {
+            "login": "cisco",
+            "password": "cisco",
+            "enable": "cisco"
+        }
+    },
+    {
+        "hostname":"R4",
+        "addr":"192.168.129.40",
+        "auth": {
+            "login": "cisco",
+            "password": "cisco",
+            "enable": "cisco"
+        }
+    },
+    {
+        "hostname":"R5",
+        "addr":"192.168.129.50",
+        "auth": {
+            "login": "cisco",
+            "password": "cisco",
+            "enable": "cisco"
+        }
+    },
+    {
+        "hostname":"R6",
+        "addr":"192.168.129.60",
+        "auth": {
+            "login": "cisco",
+            "password": "cisco",
+            "enable": "cisco"
+        }
+    }
+]
